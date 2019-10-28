@@ -2413,8 +2413,6 @@ paths:
         - api_token: []
       tags:
         - User
-servers:
-  - url: /
 components:
   requestBodies:
     Policy:
