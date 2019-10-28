@@ -16,6 +16,9 @@ externalDocs:
   url: http://developer.okta.com/docs/api/getting_started/design_principles.html
 servers:
   - url: https://{yourOktaDomain}
+    variables:
+      yourOktaDomain:
+        description: Your Okta domain.
 paths:
   /api/v1/apps:
     get:
