@@ -29,7 +29,7 @@ info:
 externalDocs:
   description: Find more info here
   url: 'http://developer.okta.com/docs/api/getting_started/design_principles.html'
-host: your-subdomain.okta.com
+host: gsroka-neto.oktapreview.com
 basePath: /
 schemes:
   - https
